@@ -1,0 +1,23 @@
+nav {
+    /*position:relative;*/
+    min-height: 50px;
+    background: #000000;
+    padding-left: 0px;
+}
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+nav.logo {
+    float:left;
+    padding: 10px;
+}
+nav.a {
+    color:#fff;
+}
+img {
+    border-style: none;
+}
+nav.search {
+    float: left;
+}
